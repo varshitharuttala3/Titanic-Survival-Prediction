@@ -65,7 +65,7 @@ Several visualizations were created to understand the dataset and identify impor
 
 ### Survival Distribution
 
-![Survival Distribution](images/survival_distribution.png)
+![Survival Distribution](Images/survival_distribution.png)
 
 **Observation:** More passengers did not survive than survived.
 
@@ -73,7 +73,7 @@ Several visualizations were created to understand the dataset and identify impor
 
 ### Gender vs Survival
 
-![Gender vs Survival](images/gender_vs_survival.png)
+![Gender vs Survival](Images/gender_vs_survival.png)
 
 **Observation:** Female passengers had significantly higher survival rates.
 
@@ -81,7 +81,7 @@ Several visualizations were created to understand the dataset and identify impor
 
 ### Passenger Class vs Survival
 
-![Passenger Class vs Survival](images/class_vs_survival.png)
+![Passenger Class vs Survival](Images/class_vs_survival.png)
 
 **Observation:** First-class passengers had better survival chances.
 
@@ -89,7 +89,7 @@ Several visualizations were created to understand the dataset and identify impor
 
 ### Age Distribution
 
-![Age Distribution](images/age_distribution.png)
+![Age Distribution](Images/age_distribution.png)
 
 **Observation:** Most passengers were between 20 and 40 years old.
 
@@ -97,7 +97,7 @@ Several visualizations were created to understand the dataset and identify impor
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](Images/correlation_heatmap.png)
 
 **Observation:** Passenger class, fare, and gender showed notable relationships with survival.
 
@@ -140,7 +140,7 @@ Feature engineering was performed to transform categorical variables into machin
 
 ### Feature Importance Analysis
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](Images/feature_importance.png)
 
 ### Most Important Features
 
@@ -194,7 +194,7 @@ The following evaluation metrics were used:
 
 ### Accuracy Comparison Chart
 
-![Model Comparison](images/model_comparison.png)
+![Model Comparison](Images/model_comparison.png)
 
 This visualization compares the performance of all trained models.
 
@@ -215,7 +215,7 @@ After evaluating all models, the **Random Forest Classifier** achieved the best 
 
 ## Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](Images/confusion_matrix.png)
 
 The confusion matrix shows the number of correct and incorrect predictions made by the model.
 
@@ -299,7 +299,7 @@ Among all trained models, the **Random Forest Classifier** achieved the best per
 
 # 👩‍💻 Author
 
-**Varshitha**
+**Varshitha Ruttala**
 
 Machine Learning Internship Project
 
