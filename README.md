@@ -304,3 +304,5 @@ Among all trained models, the **Random Forest Classifier** achieved the best per
 Machine Learning Internship Project
 
 Titanic Survival Prediction
+
+Project completed as part of the AI & ML Internship Program through **Pluto Academy**
